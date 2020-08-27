@@ -25,7 +25,8 @@ class Ui_MainWindow(object):
             pathNAME =  mexname[0]
             self.lineEdit_2.setText(pathNAME)
             with open(pathNAME, "r") as file:
-                messsaggio = file.read()
+                global messaggio
+                messaggio = file.read()
         except Exception:
             pass
     #GUI

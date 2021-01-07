@@ -1,5 +1,5 @@
 # Simple Email SENDER
-Simple Email Sender made in py (using PyQt5, smtp etc) in 1/2 hours.
+Simple Email Sender made in py (using PyQt5, smtp etc)
 
 
 # *Instructions*: 
